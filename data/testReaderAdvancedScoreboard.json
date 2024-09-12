@@ -1,0 +1,74 @@
+{
+  "leagueName": "My Soccer Scoreboard",
+  "teams": [
+    {
+      "wins": "0",
+      "goalsFor": "2",
+      "ties": "0",
+      "name": "A",
+      "gameHistory": [
+        {
+          "team1": "A",
+          "team2": "B",
+          "goals1": "1",
+          "goals2": "2"
+        },
+        {
+          "team1": "A",
+          "team2": "C",
+          "goals1": "1",
+          "goals2": "3"
+        }
+      ],
+      "losses": "2",
+      "goalsAgainst": "5",
+      "points": "0"
+    },
+    {
+      "wins": "1",
+      "goalsFor": "4",
+      "ties": "0",
+      "name": "B",
+      "gameHistory": [
+        {
+          "team1": "A",
+          "team2": "B",
+          "goals1": "1",
+          "goals2": "2"
+        },
+        {
+          "team1": "B",
+          "team2": "C",
+          "goals1": "2",
+          "goals2": "3"
+        }
+      ],
+      "losses": "1",
+      "goalsAgainst": "4",
+      "points": "3"
+    },
+    {
+      "wins": "2",
+      "goalsFor": "6",
+      "ties": "0",
+      "name": "C",
+      "gameHistory": [
+        {
+          "team1": "B",
+          "team2": "C",
+          "goals1": "2",
+          "goals2": "3"
+        },
+        {
+          "team1": "A",
+          "team2": "C",
+          "goals1": "1",
+          "goals2": "3"
+        }
+      ],
+      "losses": "0",
+      "goalsAgainst": "3",
+      "points": "6"
+    }
+  ]
+}

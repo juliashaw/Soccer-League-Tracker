@@ -1,0 +1,25 @@
+{
+    "teams": [
+      {
+        "name": "A",
+        "gameHistory": [],
+        "wins": "0",
+        "losses": "0",
+        "ties": "0",
+        "goalsFor": "0",
+        "goalsAgainst": "0",
+        "points": "0"
+      },
+      {
+        "name": "B",
+        "gameHistory": [],
+        "wins": "0",
+        "losses": "0",
+        "ties": "0",
+        "goalsFor": "0",
+        "goalsAgainst": "0",
+        "points": "0"
+      }
+    ],
+    "leagueName": "My scoreboard"
+}

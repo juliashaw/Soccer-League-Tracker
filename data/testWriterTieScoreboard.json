@@ -1,0 +1,35 @@
+{
+  "leagueName": "My Soccer Scoreboard",
+  "teams": [
+    {
+      "wins": "0",
+      "goalsFor": "1",
+      "ties": "1",
+      "name": "A",
+      "gameHistory": [{
+        "team1": "A",
+        "team2": "B",
+        "goals1": "1",
+        "goals2": "1"
+      }],
+      "losses": "0",
+      "goalsAgainst": "1",
+      "points": "1"
+    },
+    {
+      "wins": "0",
+      "goalsFor": "1",
+      "ties": "1",
+      "name": "B",
+      "gameHistory": [{
+        "team1": "A",
+        "team2": "B",
+        "goals1": "1",
+        "goals2": "1"
+      }],
+      "losses": "0",
+      "goalsAgainst": "1",
+      "points": "1"
+    }
+  ]
+}
