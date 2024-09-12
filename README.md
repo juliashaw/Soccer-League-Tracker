@@ -1,4 +1,4 @@
-# My Personal Project
+# My CPSC210 (Software Construction) Project
 
 ## Proposal
 
